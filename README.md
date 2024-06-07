@@ -1,0 +1,1 @@
+I prepared a dataset consisting of companies listed on Borsa Istanbul and used it to forecast their future profits. The project was moderately successful, and I believe even more successful results can be achieved with further developments. For your ideas and opinions, you can reach me on Instagram at @ilker_yylr.

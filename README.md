@@ -63,7 +63,7 @@ These relationships play a critical role in profit predictions. For example:
 
 The performance of the models on the test dataset is summarized below:
 
-| **Model**             | **R² Score**  | **CV - R² Score**            | **Zaman (saniye)** |
+| **Model**             | **R² Score**  | **CV - R² Score**            | **Time (second)** |
 |-----------------------|---------------|------------------------------|--------------------|
 | Linear Regression     | 0.7976        | -2.5735                      | 0.1026             |
 | Gaussian Regressor    | -0.0790       | -0.2045                      | 1.0654             |
